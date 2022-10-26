@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 22f0a3241403549cf9ce0b3992786b24
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Burner
+    100002: Button.005
+    100004: Button.006
+    100006: Button.007
+    100008: Door.007
+    100010: Facade
+    100012: Grill Shelve
+    100014: Grill Shelve.002
+    100016: Grill.001
+    100018: Handle.023
+    100020: HexagonPlate
+    100022: Knobs
+    100024: Knobs.001
+    100026: Knobs.002
+    100028: Knobs.003
+    100030: Knobs.004
+    100032: Knobs.005
+    100034: Oven
+    100036: //RootNode
+    100038: Top
+    400000: Burner
+    400002: Button.005
+    400004: Button.006
+    400006: Button.007
+    400008: Door.007
+    400010: Facade
+    400012: Grill Shelve
+    400014: Grill Shelve.002
+    400016: Grill.001
+    400018: Handle.023
+    400020: HexagonPlate
+    400022: Knobs
+    400024: Knobs.001
+    400026: Knobs.002
+    400028: Knobs.003
+    400030: Knobs.004
+    400032: Knobs.005
+    400034: Oven
+    400036: //RootNode
+    400038: Top
+    2100000: silver white
+    2100002: black shine
+    2100004: silver shine
+    2100006: black glass.001
+    2100008: glass.007
+    2100010: crome metal
+    2100012: No Name
+    2100014: smooth mat
+    2300000: Burner
+    2300002: Button.005
+    2300004: Button.006
+    2300006: Button.007
+    2300008: Door.007
+    2300010: Facade
+    2300012: Grill Shelve
+    2300014: Grill Shelve.002
+    2300016: Grill.001
+    2300018: Handle.023
+    2300020: HexagonPlate
+    2300022: Knobs
+    2300024: Knobs.001
+    2300026: Knobs.002
+    2300028: Knobs.003
+    2300030: Knobs.004
+    2300032: Knobs.005
+    2300034: Oven
+    2300036: //RootNode
+    2300038: Top
+    3300000: Burner
+    3300002: Button.005
+    3300004: Button.006
+    3300006: Button.007
+    3300008: Door.007
+    3300010: Facade
+    3300012: Grill Shelve
+    3300014: Grill Shelve.002
+    3300016: Grill.001
+    3300018: Handle.023
+    3300020: HexagonPlate
+    3300022: Knobs
+    3300024: Knobs.001
+    3300026: Knobs.002
+    3300028: Knobs.003
+    3300030: Knobs.004
+    3300032: Knobs.005
+    3300034: Oven
+    3300036: //RootNode
+    3300038: Top
+    4300000: Stove.001
+    4300002: Button.007
+    4300004: Button.006
+    4300006: Button.005
+    4300008: Knobs.005
+    4300010: Knobs.004
+    4300012: Knobs.003
+    4300014: Knobs.002
+    4300016: Knobs.001
+    4300018: Burner
+    4300020: Door.007
+    4300022: Facade
+    4300024: Grill.001
+    4300026: Grill Shelve
+    4300028: Grill Shelve.002
+    4300030: Handle.023
+    4300032: Knobs
+    4300034: Oven
+    4300036: HexagonPlate
+    4300038: Top
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

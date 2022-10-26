@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: b9c23bb03464b4894af92076ff09431d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Baseboard1
+    100002: //RootNode
+    100004: Cabinet1_Door_L
+    100006: Cabinet1_Door_L.001
+    100008: Cabinet1_Door_R.001
+    100010: Cabinet1_Door_R.002
+    100012: CounterTop
+    100014: Handle.002
+    100016: Handle.003
+    100018: Sink
+    400000: Baseboard1
+    400002: //RootNode
+    400004: Cabinet1_Door_L
+    400006: Cabinet1_Door_L.001
+    400008: Cabinet1_Door_R.001
+    400010: Cabinet1_Door_R.002
+    400012: CounterTop
+    400014: Handle.002
+    400016: Handle.003
+    400018: Sink
+    2100000: Cabinet_material.001
+    2100002: Baseboard_material.002
+    2100004: Door_material.002
+    2100006: Handle_material.002
+    2100008: countertop_material.001
+    2100010: Sink.003
+    2300000: Baseboard1
+    2300002: //RootNode
+    2300004: Cabinet1_Door_L
+    2300006: Cabinet1_Door_L.001
+    2300008: Cabinet1_Door_R.001
+    2300010: Cabinet1_Door_R.002
+    2300012: CounterTop
+    2300014: Handle.002
+    2300016: Handle.003
+    2300018: Sink
+    3300000: Baseboard1
+    3300002: //RootNode
+    3300004: Cabinet1_Door_L
+    3300006: Cabinet1_Door_L.001
+    3300008: Cabinet1_Door_R.001
+    3300010: Cabinet1_Door_R.002
+    3300012: CounterTop
+    3300014: Handle.002
+    3300016: Handle.003
+    3300018: Sink
+    4300000: Cabinet1
+    4300002: Baseboard1
+    4300004: Cabinet1_Door_L
+    4300006: Handle.003
+    4300008: Cabinet1_Door_L.001
+    4300010: Handle.002
+    4300012: Cabinet1_Door_R.001
+    4300014: Cabinet1_Door_R.002
+    4300016: CounterTop
+    4300018: Sink
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 717f08d30dc9b4a70937a115711682ee
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cabinet1.001
+    100002: Cabinet1.002
+    100004: Cabinet1.003
+    100006: Cabinet1.004
+    100008: Cabinet1.005
+    100010: Cabinet1_Door
+    100012: Cabinet1_Door.001
+    100014: Cabinet1_Door.002
+    100016: Cabinet1_Door_L.002
+    100018: Cabinet1_Door_L.003
+    100020: Cabinet1_Door_R
+    100022: Cabinet1_Door_R.003
+    100024: Handle.016
+    100026: Handle.017
+    100028: Handle.018
+    100030: Handle.019
+    100032: Handle.020
+    100034: Handle.021
+    100036: Handle.022
+    100038: //RootNode
+    400000: Cabinet1.001
+    400002: Cabinet1.002
+    400004: Cabinet1.003
+    400006: Cabinet1.004
+    400008: Cabinet1.005
+    400010: Cabinet1_Door
+    400012: Cabinet1_Door.001
+    400014: Cabinet1_Door.002
+    400016: Cabinet1_Door_L.002
+    400018: Cabinet1_Door_L.003
+    400020: Cabinet1_Door_R
+    400022: Cabinet1_Door_R.003
+    400024: Handle.016
+    400026: Handle.017
+    400028: Handle.018
+    400030: Handle.019
+    400032: Handle.020
+    400034: Handle.021
+    400036: Handle.022
+    400038: //RootNode
+    2100000: Cabinet_material
+    2100002: No Name
+    2100004: Door_material
+    2300000: Cabinet1.001
+    2300002: Cabinet1.002
+    2300004: Cabinet1.003
+    2300006: Cabinet1.004
+    2300008: Cabinet1.005
+    2300010: Cabinet1_Door
+    2300012: Cabinet1_Door.001
+    2300014: Cabinet1_Door.002
+    2300016: Cabinet1_Door_L.002
+    2300018: Cabinet1_Door_L.003
+    2300020: Cabinet1_Door_R
+    2300022: Cabinet1_Door_R.003
+    2300024: Handle.016
+    2300026: Handle.017
+    2300028: Handle.018
+    2300030: Handle.019
+    2300032: Handle.020
+    2300034: Handle.021
+    2300036: Handle.022
+    3300000: Cabinet1.001
+    3300002: Cabinet1.002
+    3300004: Cabinet1.003
+    3300006: Cabinet1.004
+    3300008: Cabinet1.005
+    3300010: Cabinet1_Door
+    3300012: Cabinet1_Door.001
+    3300014: Cabinet1_Door.002
+    3300016: Cabinet1_Door_L.002
+    3300018: Cabinet1_Door_L.003
+    3300020: Cabinet1_Door_R
+    3300022: Cabinet1_Door_R.003
+    3300024: Handle.016
+    3300026: Handle.017
+    3300028: Handle.018
+    3300030: Handle.019
+    3300032: Handle.020
+    3300034: Handle.021
+    3300036: Handle.022
+    4300000: Cabinet1.005
+    4300002: Handle.022
+    4300004: Cabinet1_Door_R.003
+    4300006: Cabinet1_Door_L.003
+    4300008: Handle.021
+    4300010: Cabinet1.004
+    4300012: Handle.020
+    4300014: Cabinet1_Door.002
+    4300016: Cabinet1.003
+    4300018: Handle.019
+    4300020: Cabinet1_Door_R
+    4300022: Cabinet1_Door_L.002
+    4300024: Handle.018
+    4300026: Cabinet1.002
+    4300028: Cabinet1_Door.001
+    4300030: Handle.017
+    4300032: Cabinet1.001
+    4300034: Handle.016
+    4300036: Cabinet1_Door
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: ff003671135934376b0a700da970901b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box_Left
+    100002: Box_Right
+    100004: Door_Left
+    100006: DoorRight
+    100008: Fridge
+    100010: //RootNode
+    100012: LeftCompartment
+    100014: Plane_Left
+    100016: Plane_Right
+    100018: Point
+    100020: RightCompartmnet
+    100022: SmallDoor_Left
+    100024: SteelNet1_Left
+    100026: SteelNet1_Right
+    100028: SteelNet2_Left
+    100030: SteelNet2_Right
+    100032: SteelNet3_Left
+    100034: SteelNet3_Right
+    400000: Box_Left
+    400002: Box_Right
+    400004: Door_Left
+    400006: DoorRight
+    400008: //RootNode
+    400010: Fridge
+    400012: LeftCompartment
+    400014: Plane_Left
+    400016: Plane_Right
+    400018: Point
+    400020: RightCompartmnet
+    400022: SmallDoor_Left
+    400024: SteelNet1_Left
+    400026: SteelNet1_Right
+    400028: SteelNet2_Left
+    400030: SteelNet2_Right
+    400032: SteelNet3_Left
+    400034: SteelNet3_Right
+    2100000: brushed metal
+    2100002: glass
+    2100004: white plastic
+    2100006: white rubber
+    2100008: crome
+    2100010: plastic
+    2300000: Box_Left
+    2300002: Box_Right
+    2300004: Door_Left
+    2300006: DoorRight
+    2300008: Fridge
+    2300010: LeftCompartment
+    2300012: Plane_Left
+    2300014: Plane_Right
+    2300016: RightCompartmnet
+    2300018: SmallDoor_Left
+    2300020: SteelNet1_Left
+    2300022: SteelNet1_Right
+    2300024: SteelNet2_Left
+    2300026: SteelNet2_Right
+    2300028: SteelNet3_Left
+    2300030: SteelNet3_Right
+    3300000: Box_Left
+    3300002: Box_Right
+    3300004: Door_Left
+    3300006: DoorRight
+    3300008: Fridge
+    3300010: LeftCompartment
+    3300012: Plane_Left
+    3300014: Plane_Right
+    3300016: RightCompartmnet
+    3300018: SmallDoor_Left
+    3300020: SteelNet1_Left
+    3300022: SteelNet1_Right
+    3300024: SteelNet2_Left
+    3300026: SteelNet2_Right
+    3300028: SteelNet3_Left
+    3300030: SteelNet3_Right
+    4300000: Fridge
+    4300002: Box_Left
+    4300004: Box_Right
+    4300006: Door_Left
+    4300008: SmallDoor_Left
+    4300010: DoorRight
+    4300012: LeftCompartment
+    4300014: Plane_Left
+    4300016: Plane_Right
+    4300018: RightCompartmnet
+    4300020: SteelNet1_Left
+    4300022: SteelNet1_Right
+    4300024: SteelNet2_Left
+    4300026: SteelNet2_Right
+    4300028: SteelNet3_Left
+    4300030: SteelNet3_Right
+    10800000: Point
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
