@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: 45db9742f62686c44ba86cdfa5fb71f2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: apple1
+    100002: apple2
+    100004: banana1
+    100006: banana2
+    100008: banana3
+    100010: banana4
+    100012: //RootNode
+    100014: fruit_boWl1
+    100016: grape10
+    100018: orange1
+    100020: orange2
+    100022: pear1
+    100024: pear2
+    100026: plum1
+    100028: plum2
+    100030: plum3
+    100032: plum4
+    100034: plum5
+    400000: apple1
+    400002: apple2
+    400004: banana1
+    400006: banana2
+    400008: banana3
+    400010: banana4
+    400012: //RootNode
+    400014: fruit_boWl1
+    400016: grape10
+    400018: orange1
+    400020: orange2
+    400022: pear1
+    400024: pear2
+    400026: plum1
+    400028: plum2
+    400030: plum3
+    400032: plum4
+    400034: plum5
+    2100000: plum
+    2100002: pear
+    2100004: fruitbowlceramic
+    2100006: orange
+    2100008: apple
+    2100010: banana
+    2100012: banana_bunch
+    2100014: grape2
+    2300000: apple1
+    2300002: apple2
+    2300004: banana1
+    2300006: banana2
+    2300008: banana3
+    2300010: banana4
+    2300012: fruit_boWl1
+    2300014: grape10
+    2300016: orange1
+    2300018: orange2
+    2300020: pear1
+    2300022: pear2
+    2300024: plum1
+    2300026: plum2
+    2300028: plum3
+    2300030: plum4
+    2300032: plum5
+    3300000: apple1
+    3300002: apple2
+    3300004: banana1
+    3300006: banana2
+    3300008: banana3
+    3300010: banana4
+    3300012: fruit_boWl1
+    3300014: grape10
+    3300016: orange1
+    3300018: orange2
+    3300020: pear1
+    3300022: pear2
+    3300024: plum1
+    3300026: plum2
+    3300028: plum3
+    3300030: plum4
+    3300032: plum5
+    4300000: plum2
+    4300002: pear1
+    4300004: plum1
+    4300006: fruit_boWl1
+    4300008: orange1
+    4300010: plum3
+    4300012: apple1
+    4300014: orange2
+    4300016: banana1
+    4300018: plum4
+    4300020: pear2
+    4300022: banana2
+    4300024: apple2
+    4300026: banana3
+    4300028: grape10
+    4300030: banana4
+    4300032: plum5
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: apple
+    second: {fileID: 2100000, guid: 6499179e85e05b147bb3ef8e38c47726, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: banana
+    second: {fileID: 2100000, guid: b0483dd99de6c4a4395f3b694158ff6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: banana_bunch
+    second: {fileID: 2100000, guid: 4db5e329e71aa874ea37b4fc6f28d5ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fruitbowlceramic
+    second: {fileID: 2100000, guid: 3c0f64653eabef34493ba126e16fbdc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grape2
+    second: {fileID: 2100000, guid: 27bea42440b836042a45a32d74a49d32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orange
+    second: {fileID: 2100000, guid: ce9e57cfc0a301248a3817232e805924, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pear
+    second: {fileID: 2100000, guid: 49537d438db922a408da1aa2e80e8d0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plum
+    second: {fileID: 2100000, guid: fb526d35d127f0a45b93b8c03aa41958, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
